@@ -1,4 +1,7 @@
 # Back-End
+
+BASEURL https://anytimefitnessbuild.herokuapp.com/
+
 ENDPOINTS
 
 [POST] /api/auth/register - signs up user for instructor or client role
